@@ -1,0 +1,16 @@
+{
+  "name": "سنا - الأذكار والسكينة",
+  "short_name": "سنا",
+  "start_url": "./عمار.html",
+  "display": "standalone",
+  "background_color": "#D97706",
+  "theme_color": "#78350F",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "سنا 2.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
